@@ -38,4 +38,6 @@ Let's Collaborate
 🔗 Connect with me on LinkedIn to stay updated.
 
 Get in Touch
-If you have a project idea, want to collaborate, or just want to say hi, don't hesitate to reach out! Let's build something amazing together!
+If you have a project idea, want to collaborate, or just want to say hi, don't hesitate to reach out!
+
+Let's build something amazing together!
