@@ -5,7 +5,6 @@
 ```javascript
 const aboutMe = {
   name: "Jitendra Bansal",
-  role: "Software Developer",
   passions: ["Coding", "Problem Solving", "Innovation"],
   expertise: ["Web Development", "Backend Development", "REST APIs"],
   languages: ["JavaScript", "Java", "C++"],
@@ -15,10 +14,11 @@ const aboutMe = {
 About Me
 
 Hello! I'm Jitendra Bansal, a passionate software developer enthusiastic about creating innovative solutions.
- I specialize in web development, particularly in building portfolio websites and dynamic digital blog platforms.
- My skills encompass a wide range of technologies, including HTML, CSS, JavaScript, React, MongoDB, MySQL, Node.js, Express.js, and more.
- Additionally, I enjoy exploring backend development by playing with REST APIs and have a strong foundation in programming languages such as Java and C++.
-I'm also well-versed in Data Structures and Algorithms.
+I specialize in web development, particularly in building portfolio websites and dynamic digital blog platforms.
+My skills encompass a wide range of technologies, including HTML, CSS, JavaScript, React, MongoDB, MySQL,
+Node.js, Express.js, and more. Additionally, I enjoy exploring backend development by playing with REST APIs
+and have a strong foundation in programming languages such as Java and C++.I'm also well-versed in Data Structures
+and Algorithms.
 
 Projects
 Here are some of the exciting projects I've worked on:
